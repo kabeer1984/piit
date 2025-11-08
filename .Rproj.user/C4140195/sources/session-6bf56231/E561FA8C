@@ -1,0 +1,28 @@
+{
+    "id": "E561FA8C",
+    "path": "C:/analytics/projects/piit/r/rpractice11825.R",
+    "project_path": "r/rpractice11825.R",
+    "type": "r_source",
+    "hash": "0",
+    "contents": "",
+    "dirty": true,
+    "created": 1762613733240.0,
+    "source_on_save": true,
+    "relative_order": 1,
+    "properties": {
+        "tempName": "Untitled1",
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "32,0",
+        "scrollLine": "17",
+        "disableDependencyDiscovery": "1"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1762618080,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1762618824619,
+    "read_only": false,
+    "read_only_alternatives": []
+}
