@@ -27,3 +27,17 @@ head(mtcars)
 #summary----
 library(dplyr)
 mtcars %>% summary()
+mtcars %>% summary()
+mtcars %>% mutate(newMPG = mpg * 1.5)
+mtcars %>% select(mpg,wt)
+df %>% group_by(gear) %>% summarise(n=n())
+df %>% group_by(gear,cyl) %>% summarise(n=n())
+#meanmpg based on transmission type----
+mtcars %>% group_by(am) %>% summarise(meanMPG = mean(mpg,na.rm=T))
+mtcars %>% mutate(mpg2 = if_else(am==0, mpg *2,mpg)) %>% select(am,mpg,mpg2)
+cor(mtcars)
+cor(mtcars[,])
+df2 = read.csv(file.choose())
+df1 = read.csv("C:\analytics\data\Evdata.csv")
+head(df1)
+
