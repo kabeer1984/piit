@@ -1,11 +1,11 @@
 {
     "id": "77D0ADB6",
-    "path": null,
-    "project_path": null,
+    "path": "C:/analytics/projects/piit/r/ggplotR.R",
+    "project_path": "ggplotR.R",
     "type": "r_source",
     "hash": "0",
     "contents": "",
-    "dirty": true,
+    "dirty": false,
     "created": 1763228072481.0,
     "source_on_save": false,
     "relative_order": 9,
@@ -17,11 +17,11 @@
         "scrollLine": "21"
     },
     "folds": "",
-    "lastKnownWriteTime": 1989142220352,
-    "encoding": "",
+    "lastKnownWriteTime": 1763234263,
+    "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1763228270963,
+    "last_content_update": 1763234263513,
     "read_only": false,
     "read_only_alternatives": []
 }
