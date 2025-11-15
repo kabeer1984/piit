@@ -7,10 +7,12 @@ df2
 df3 = dbGetQuery(co, 'select department_id from employees')
 df3
 df = dbGetQuery(co,'show tables')
+
 df
 pf=dbGetQuery(co,'select  first_name from team1')
 pf
 pf1= dbGetQuery(co,'show tables')
+
 pf1
 x = c(10, 20, 30, 50)
 x
@@ -47,6 +49,7 @@ str(students)
 summary(students)
 colSums(is.na(students))
 complete.cases(students)
+
 students
 
 students %>% filter(is.na(age))
