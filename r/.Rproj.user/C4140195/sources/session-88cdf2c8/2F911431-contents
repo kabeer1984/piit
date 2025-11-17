@@ -1,0 +1,6 @@
+library(dplyr)
+(data1 = data.frame(ID = 1:2,                     
+                    X1 = c("a1", "a2")
+(data2 = data.frame(ID = 2:3,
+                    X2 = c("b1", "b2"))                    
+inner_join(data1, data2, by = "ID")
